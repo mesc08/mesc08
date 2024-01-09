@@ -7,7 +7,7 @@
 
 ## 😎 **More About Me**
 
-👨‍💼 Currently working as a Senior Software Engineer at Netcore Cloud
+👨‍💼 Currently working as a Senior Software Engineer at Netcore Cloud.
 🎓 B.Tech. in Computer Science and Engineering from Indian Institue of Information Technology, Kalyani.  
 🌱 I’m currently learning and exploring more on backend development.  
 🗺️ When I'm not working, I like to travel outside and sometimes I work with art and craft.  

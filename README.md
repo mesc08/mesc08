@@ -13,7 +13,7 @@
 
 🌱 I'm diving into backend development to broaden my skills and knowledge.  
 
-🗺️ When I'm not working, I like to travel outside and sometimes I work with art and craft.  
+🗺️ When I'm not working, I like to meditate or travel.  
 
 💬 If you have any questions, feel free to contact me. I'm happy to help!
 
